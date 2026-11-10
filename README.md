@@ -24,10 +24,6 @@ python plot_mean.py
     <img src="figure.png" alt="example image" height="500">
 </p>
 
-Cite As
-
-[Nzakimuena, C. B., Solano, M. M., Marcotte-Collard, R., Lesk, M. R., & Costantino, S. (2025). Spatial and temporal changes in choroid morphology associated with long-duration spaceflight. Investigative Ophthalmology & Visual Science, 66(5), 17-17.](https://doi.org/10.1167/iovs.66.5.17)
-
 ### References
 
 1. [Wilkinson, L. (1999). Dot plots. The American Statistician, 53(3), 276-281.](https://www.tandfonline.com/doi/abs/10.1080/00031305.1999.10474474)
